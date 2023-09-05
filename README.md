@@ -2,7 +2,7 @@
 
 ![Screenshot](images/screenshot.png)
 
-Welcome to the Restaurant Menu Filter project! This project provides a user-friendly restaurant menu that allows customers to filter available food items based on categories such as appetizers, main courses, and desserts. It's perfect for any restaurant website looking to showcase its menu in an organized and interactive way.
+This project provides a user-friendly restaurant menu that allows customers to filter available food items based on categories such as appetizers, main courses, and desserts. It's perfect for any restaurant website looking to showcase its menu in an organized and interactive way.
 
 ## Features
 
