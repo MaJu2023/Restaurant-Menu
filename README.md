@@ -25,8 +25,8 @@ json-server --watch menu.json
 
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
-JSON (for food item data)
+- HTML
+- CSS
+- JavaScript
+- JSON (for food item data)
 
