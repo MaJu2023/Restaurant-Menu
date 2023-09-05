@@ -1,0 +1,95 @@
+{
+    "meals": [
+      {
+        "name": "Healthy Breakfast",
+        "food_type": "Breakfast",
+        "img": "cereal-898073_1280.jpg",
+        "description": "A nutritious breakfast with fresh fruits and yogurt."
+      },
+      {
+        "name": "Avocado Toast",
+        "food_type": "Breakfast",
+        "img": "avocado-toast-6779457_1280.jpg",
+        "description": "Avocado toast with poached egg and spinach."
+      },
+      {
+        "name": "Chicken Salad",
+        "food_type": "Lunch",
+        "img": "chicken-salad.jpg",
+        "description": "Fresh grilled chicken salad with mixed vegetables."
+      },
+      {
+        "name": "Lentil Soup",
+        "food_type": "Lunch",
+        "img": "lentil-soup.jpg",
+        "description": "Hot and comforting lentil soup with carrots and celery."
+      },
+      {
+        "name": "Pesto Pasta",
+        "food_type": "Dinner",
+        "img": "pesto-pasta.jpg",
+        "description": "Homemade pasta with pesto sauce, cherry tomatoes, and parmesan cheese."
+      },
+      {
+        "name": "Grilled Salmon",
+        "food_type": "Dinner",
+        "img": "grilled-salmon.jpg",
+        "description": "Fresh grilled salmon with lemon and herbs."
+      },
+      {
+        "name": "Strawberry Smoothie",
+        "food_type": "Smoothie",
+        "img": "strawberry-smoothie.jpg",
+        "description": "Creamy strawberry smoothie with milk and yogurt."
+      },
+      {
+        "name": "Spinach Smoothie",
+        "food_type": "Smoothie",
+        "img": "spinach-smoothie.jpg",
+        "description": "Green smoothie packed with spinach, banana, and almonds."
+      },
+      {
+        "name": "Mushroom Omelette",
+        "food_type": "Breakfast",
+        "img": "mushroom-omelette.jpg",
+        "description": "Mushroom and cheddar cheese-filled omelette."
+      },
+      {
+        "name": "Caesar Salad",
+        "food_type": "Lunch",
+        "img": "caesar-salad.jpg",
+        "description": "Classic Caesar salad with grilled chicken and creamy dressing."
+      },
+      {
+        "name": "Tomato Soup",
+        "food_type": "Lunch",
+        "img": "tomato-soup.jpg",
+        "description": "Homemade tomato soup with croutons and fresh basil."
+      },
+      {
+        "name": "Pasta Primavera",
+        "food_type": "Dinner",
+        "img": "pasta-primavera.jpg",
+        "description": "Pasta with fresh vegetables and tomato sauce."
+      },
+      {
+        "name": "Chicken Curry",
+        "food_type": "Dinner",
+        "img": "chicken-curry.jpg",
+        "description": "Tender chicken in a rich curry sauce with rice."
+      },
+      {
+        "name": "Banana Smoothie",
+        "food_type": "Smoothie",
+        "img": "banana-smoothie.jpg",
+        "description": "Refreshing banana smoothie with almond milk."
+      },
+      {
+        "name": "Mango Smoothie",
+        "food_type": "Smoothie",
+        "img": "mango-smoothie.jpg",
+        "description": "Tropical mango and pineapple smoothie with yogurt."
+      }
+    ]
+  }
+  
