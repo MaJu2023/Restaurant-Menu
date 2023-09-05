@@ -1,6 +1,6 @@
 # Restaurant Menu Filter
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/screenshot3.png)
 
 This project provides a user-friendly restaurant menu that allows customers to filter available food items based on categories such as appetizers, main courses, and desserts. It's perfect for any restaurant website looking to showcase its menu in an organized and interactive way.
 
@@ -12,10 +12,10 @@ This project provides a user-friendly restaurant menu that allows customers to f
 
 ## Screenshots
 
-![Full Menu](images/full_menu.png)
+![Full Menu](images/screenshot1.png)
 *Full Menu*
 
-![Filtered Menu](images/filtered_menu.png)
+![Filtered Menu](images/screenshot2.png)
 *Filtered Menu*
 
 ## Getting Started
