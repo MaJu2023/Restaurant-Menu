@@ -10,6 +10,11 @@ This project provides a user-friendly restaurant menu that allows customers to f
 - Interactive filtering buttons that allow customers to easily find their desired items.
 - Responsive design that adapts to different screen sizes.
 
+## Demo
+
+[Menú](https://maju2023.github.io/Restaurant-Menu/)
+
+
 ## Screenshots
 
 ![Full Menu](images/screenshot1.png)
